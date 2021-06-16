@@ -1,1 +1,1 @@
-# QuizApplication_main-This is a Quiz App Project. In this Object-Oriented Programming and Basic Functionality of the Android GUI like Check Box, Radio Button and Edit Text implemented .
+In this Object-Oriented Programming and Basic Functionalities of the Android GUI are implemented
